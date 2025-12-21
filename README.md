@@ -22,10 +22,10 @@ Computer Engineering senior student with experience in backend (**Java/Spring Bo
 <p>
   <a href="https://dev.java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/></a>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=bash" title="Bash / Shell" alt="Bash / Shell"/>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3"/>
+  <a href="#-"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript"/></a>
+  <a href="#-"><img src="https://skillicons.dev/icons?i=bash" title="Bash / Shell" alt="Bash / Shell"/></a>
+  <a href="#-"><img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5"/></a>
+  <a href="#-"><img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3"/></a>
 </p>
 
 #### 📚 Frameworks & Libraries
