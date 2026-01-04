@@ -32,7 +32,11 @@ Computer Engineering senior student with experience in backend (**Java/Spring Bo
 <p>
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" title="React.js / React Native" alt="React.js / React Native"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js"/></a>
+  <a href="https://expo.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=expo&theme=dark" title="Expo" alt="Expo"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark" title="NumPy" alt="NumPy"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" title="Pandas" alt="Pandas"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" title="Matplotlib" alt="Matplotlib"/></a>
 </p>
 
 #### 🛠️ Tools & Platforms
