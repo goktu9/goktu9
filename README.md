@@ -4,7 +4,7 @@
 
 # Hi there, I'm Göktuğ 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Senior+Computer+Engineering+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Engineer;NLP+%26+ML+Research+Intern+at+ScaDS.AI" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-Computer Engineering senior student with experience in backend (**Java/Spring Boot**) and frontend (**React/React Native**) development. Having gained hands-on enterprise software experience, I am passionate about building robust, efficient, and innovative software systems.
+Computer Engineering graduate (BSc) currently working as an Erasmus+ Research Intern in Natural Language Processing and Machine Learning at ScaDS.AI. Strong foundation experience in backend (**Java/Spring Boot**) and frontend (**React/React Native**) development. Having gained hands-on enterprise software experience, I am passionate about building robust, efficient, and innovative software systems.
 
 ---
 
