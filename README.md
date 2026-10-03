@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-Computer Engineering graduate (BSc) currently working as an Erasmus+ Research Intern in Natural Language Processing and Machine Learning at ScaDS.AI. Strong foundation experience in backend (**Java/Spring Boot**) and frontend (**React/React Native**) development. Having gained hands-on enterprise software experience, I am passionate about building robust, efficient, and innovative software systems.
+Computer Engineering graduate (BSc) currently working as an Artificial Intelligence Intern at FOREO. Strong foundation experience in backend (**Java/Spring Boot**) and frontend (**React/React Native**) development. Having gained hands-on enterprise software experience, I am passionate about building robust, efficient, and innovative software systems.
 
 ---
 
