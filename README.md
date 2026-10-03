@@ -4,7 +4,7 @@
 
 # Hi there, I'm Göktuğ 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Engineer;NLP+%26+ML+Research+Intern+at+ScaDS.AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Engineer;Artificial+Intelligence+Intern+at+FOREO" alt="Typing SVG" />
 
 </div>
 
