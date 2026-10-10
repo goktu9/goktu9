@@ -42,7 +42,7 @@ Computer Engineering graduate (BSc) currently working as an **Artificial Intelli
 #### 📚 Frameworks & Libraries
 <p>
   <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="icons/fastapi-dark.png" width="48" height="48" title="FastAPI" alt="FastAPI"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" title="React.js / React Native" alt="React.js / React Native"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js"/></a>
   <a href="https://expo.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=expo&theme=dark" title="Expo" alt="Expo"/></a>
@@ -68,5 +68,5 @@ Computer Engineering graduate (BSc) currently working as an **Artificial Intelli
 <p>
   <a href="https://goktug-portfolio.vercel.app" target="_blank"><img src="icons/portfolio-logo.png" width="48" height="48" title="Portfolio" alt="Portfolio"/></a>
   <a href="mailto:g.varan@hotmail.com"><img src="icons/outlook-logo.png" width="48" height="48" title="Email" alt="Email"/></a>
-  <a href="https://linkedin.com/in/goktugvaran" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/goktugvaran" target="_blank"><img src="icons/linkedin-dark.png" width="48" height="48" title="LinkedIn" alt="LinkedIn"/></a>
 </p>
