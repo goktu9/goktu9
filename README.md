@@ -20,45 +20,45 @@ Computer Engineering graduate (BSc) currently working as an **Artificial Intelli
 
 #### 👨‍💻 Languages
 <p>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/></a>
-  <a href="https://dev.java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="icons/python-dark.png" width="48" height="48" title="Python" alt="Python"/></a>
+  <a href="https://dev.java/" target="_blank"><img src="icons/java-dark.png" width="48" height="48" title="Java" alt="Java"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="icons/js-dark.png" width="48" height="48" title="JavaScript" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/"><img src="icons/ts-dark.png" width="48" height="48" title="TypeScript" alt="TypeScript"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" title="Bash / Shell" alt="Bash / Shell"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="icons/bash-dark.png" width="48" height="48" title="Bash / Shell" alt="Bash / Shell"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="icons/html-dark.png" width="48" height="48" title="HTML5" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/css-dark.png" width="48" height="48" title="CSS3" alt="CSS3"/></a>
 </p>
 
 #### 🤖 AI/ML & LLMs
 <p>
-  <a href="https://ollama.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=ollama&theme=dark" title="Ollama" alt="Ollama"/></a>
+  <a href="https://ollama.com/" target="_blank"><img src="icons/ollama-dark.png" width="48" height="48" title="Ollama" alt="Ollama"/></a>
   <a href="https://claude.ai/" target="_blank"><img src="icons/claude-dark.png" width="48" height="48" title="Claude" alt="Claude"/></a>
-  <a href="https://gemini.google.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini&theme=dark" title="Gemini" alt="Gemini"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark" title="NumPy" alt="NumPy"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" title="Pandas" alt="Pandas"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" title="Matplotlib" alt="Matplotlib"/></a>
+  <a href="https://gemini.google.com/" target="_blank"><img src="icons/gemini-dark.png" width="48" height="48" title="Gemini" alt="Gemini"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="icons/numpy-dark.png" width="48" height="48" title="NumPy" alt="NumPy"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="icons/pandas-dark.png" width="48" height="48" title="Pandas" alt="Pandas"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="icons/matplotlib-dark.png" width="48" height="48" title="Matplotlib" alt="Matplotlib"/></a>
 </p>
 
 #### 📚 Frameworks & Libraries
 <p>
-  <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="icons/spring-dark.png" width="48" height="48" title="Spring Boot" alt="Spring Boot"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="icons/fastapi-dark.png" width="48" height="48" title="FastAPI" alt="FastAPI"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" title="React.js / React Native" alt="React.js / React Native"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js"/></a>
-  <a href="https://expo.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=expo&theme=dark" title="Expo" alt="Expo"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="icons/react-dark.png" width="48" height="48" title="React.js / React Native" alt="React.js / React Native"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="icons/nodejs-dark.png" width="48" height="48" title="Node.js" alt="Node.js"/></a>
+  <a href="https://expo.dev/" target="_blank"><img src="icons/expo-dark.png" width="48" height="48" title="Expo" alt="Expo"/></a>
 </p>
 
 #### 🛠️ Tools & Platforms
 <p>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" title="Git" alt="Git"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="icons/git-dark.png" width="48" height="48" title="Git" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="icons/github-dark.png" width="48" height="48" title="GitHub" alt="GitHub"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="icons/githubactions-dark.png" width="48" height="48" title="GitHub Actions" alt="GitHub Actions"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="icons/docker-dark.png" width="48" height="48" title="Docker" alt="Docker"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" title="PostgreSQL" alt="PostgreSQL"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="icons/mysql-dark.png" width="48" height="48" title="MySQL" alt="MySQL"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="icons/postgresql-dark.png" width="48" height="48" title="PostgreSQL" alt="PostgreSQL"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="icons/postman-dark.png" width="48" height="48" title="Postman" alt="Postman"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" title="Figma" alt="Figma"/></a>
-  <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex" title="LaTeX" alt="LaTeX"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="icons/figma-dark.png" width="48" height="48" title="Figma" alt="Figma"/></a>
+  <a href="https://www.latex-project.org/" target="_blank"><img src="icons/latex-dark.png" width="48" height="48" title="LaTeX" alt="LaTeX"/></a>
 </p>
 
 ---
